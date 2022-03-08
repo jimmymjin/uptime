@@ -24,19 +24,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "slas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2601,
-    "timeDay": 1963,
-    "timeWeek": 2282,
-    "timeMonth": 2601,
-    "timeYear": 2601,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2588,
+    "timeDay": 2087,
+    "timeWeek": 2274,
+    "timeMonth": 2588,
+    "timeYear": 2588,
     "dailyMinutesDown": {
-      "2022-03-08": 0
+      "2022-03-08": 20
     }
   }
 ]
