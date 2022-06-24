@@ -24,7 +24,7 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "slas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 2448,
     "timeYear": 2509,
     "dailyMinutesDown": {
+      "2022-06-24": 0,
       "2022-06-06": 51,
       "2022-05-12": 20,
       "2022-04-30": 17,
