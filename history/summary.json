@@ -2,7 +2,7 @@
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
+    "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.95%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 251,
-    "timeDay": 468,
-    "timeWeek": 282,
-    "timeMonth": 283,
-    "timeYear": 251,
+    "time": 252,
+    "timeDay": 460,
+    "timeWeek": 329,
+    "timeMonth": 291,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2022-07-08": 528,
       "2022-02-24": 19
@@ -23,7 +23,7 @@
   {
     "name": "SLAS",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "slas",
     "status": "up",
     "uptime": "99.86%",
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 2546,
-    "timeDay": 2750,
-    "timeWeek": 2466,
-    "timeMonth": 2624,
+    "timeDay": 2637,
+    "timeWeek": 2557,
+    "timeMonth": 2635,
     "timeYear": 2546,
     "dailyMinutesDown": {
       "2022-08-29": 30,
