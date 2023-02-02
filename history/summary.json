@@ -26,7 +26,7 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "slas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
     "uptimeDay": "98.53%",
     "uptimeWeek": "99.79%",
