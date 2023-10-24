@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 289,
-    "timeDay": 425,
+    "timeDay": 105,
     "timeWeek": 264,
-    "timeMonth": 289,
-    "timeYear": 297,
+    "timeMonth": 280,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2023-09-13": 18,
       "2023-06-21": 19,
@@ -30,15 +30,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "slas",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.08%",
-    "time": 2878,
-    "timeDay": 2944,
-    "timeWeek": 2701,
-    "timeMonth": 2615,
+    "time": 2876,
+    "timeDay": 2104,
+    "timeWeek": 2681,
+    "timeMonth": 2598,
     "timeYear": 2958,
     "dailyMinutesDown": {
       "2023-10-13": 80,
@@ -64,8 +64,7 @@
       "2022-11-14": 412,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
-      "2022-11-11": 461,
-      "2022-10-24": 40
+      "2022-11-11": 461
     }
   }
 ]
