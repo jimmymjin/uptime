@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 341,
-    "timeDay": 83,
-    "timeWeek": 284,
-    "timeMonth": 263,
+    "timeDay": 423,
+    "timeWeek": 285,
+    "timeMonth": 271,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2024-01-10": 80,
@@ -32,17 +32,17 @@
     "slug": "slas",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.80%",
     "time": 3163,
-    "timeDay": 4956,
-    "timeWeek": 5212,
-    "timeMonth": 3550,
+    "timeDay": 5754,
+    "timeWeek": 5193,
+    "timeMonth": 3553,
     "timeYear": 3159,
     "dailyMinutesDown": {
-      "2024-03-28": 39,
+      "2024-03-28": 31,
       "2024-03-12": 16,
       "2023-12-30": 17,
       "2023-12-29": 16,
@@ -64,8 +64,7 @@
       "2023-09-06": 36,
       "2023-08-30": 17,
       "2023-08-12": 54,
-      "2023-08-11": 60,
-      "2023-03-30": 15
+      "2023-08-11": 60
     }
   }
 ]
