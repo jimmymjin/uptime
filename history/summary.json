@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 321,
-    "timeDay": 101,
-    "timeWeek": 273,
-    "timeMonth": 309,
+    "timeDay": 347,
+    "timeWeek": 347,
+    "timeMonth": 347,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2025-05-11": 88,
@@ -31,18 +31,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 3035,
-    "timeDay": 2454,
-    "timeWeek": 2756,
-    "timeMonth": 3224,
-    "timeYear": 3078,
+    "time": 3034,
+    "timeDay": 2468,
+    "timeWeek": 2468,
+    "timeMonth": 2468,
+    "timeYear": 3058,
     "dailyMinutesDown": {
       "2025-10-05": 17,
       "2025-08-19": 64,
       "2025-08-17": 35,
       "2025-08-03": 20,
-      "2025-05-27": 69,
-      "2025-02-05": 18
+      "2025-05-27": 69
     }
   }
 ]
